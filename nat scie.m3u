@@ -1,0 +1,22 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NAT GEO WILD
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1675?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",NAT GEO HD
+http://portal.unblkservice1.xyz:8080/hollie/hollie/68816?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Nat Geo HD
+http://tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/43810?checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png" group-title="Undefined",Pluto TV Documentaries
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=91&deviceId=5b85a7582921777994caea63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png" group-title="Undefined",Voyager Documentaries
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=681&deviceId=589aa03df9ba56a84197a560&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/1672?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/1551?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/26486?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Discovery Science
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/941.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Discovery Science
+http://portal.unblkservice1.xyz:8080/hollie/hollie/28851?checkedby:hlscat.com
