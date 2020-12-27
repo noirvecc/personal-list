@@ -1,0 +1,134 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="Undefined",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Undefined",MBC
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",MBC 2 HD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="Undefined",MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",MBC Action HD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Movies",MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Movies",MBC Drama PLUS
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ;AE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png" group-title="Undefined",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Movies",MBC Max HD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="Undefined",Dubai Zaman
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="Undefined",Abu Dhabi Drama
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="General",Abu Dhabi TV
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Undefined",Télé Maroc
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="Undefined",2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ;MY" tvg-logo="" group-title="News;Undefined",Al Hurra,AL HURRA (1280×720)
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="https://www.alhayat.tv/images/logo/main.34f5c635.png" group-title="General",Alhayat TV
+https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/WUvqhAZ.png" group-title="Undefined",BAHRAIN TV,BH | Bahrain TV
+http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Sky-MoviesComedy
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Undefined",National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="Undefined",Al Jazeera Documentary,QA | Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="KW" tvg-logo="https://i.imgur.com/yxM11Ug.jpg" group-title="Kids;Undefined",KTV Kids,KW | KTV Kids
+https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Undefined",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Kids",Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Undefined",RT ARABIC (1280×720)
+https://rt-arab-gd.secure2.footprint.net/1104.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY;GB" tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="News;Undefined",Sky News Arabia,SKY NEWS ARABIA (1280×720)
+https://stream.skynewsarabia.com/hls/sna.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AR:France24,France24
+http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Animal Planet FHD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/27207?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Cartoon Network IT
+http://showflix.org:5890/ali123/ali123123/56076?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Crime Investigation HD IT
+http://showflix.org:5890/ali123/ali123123/56099?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",DAZN SPORTS HD 1 IT
+http://showflix.org:5890/ali123/ali123123/59048?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",DAZN SPORTS HD 2 IT
+http://showflix.org:5890/ali123/ali123123/59049?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",DAZN Serie A HD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/27152?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",DAZN Sport 1 HD
+http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/27151?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE HD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/26486?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Discovery Channel HD IT
+http://showflix.org:5890/ali123/ali123123/56100?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Discovery Channel HD VIP IT
+http://showflix.org:5890/ali123/ali123123/56101?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Disney HD
+http://ankastream.com:8080/facontv-tel/WiU9iyr20I/2727?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Disney Junior IT
+http://showflix.org:5890/ali123/ali123123/56072?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",EuroSport 1 HD IT
+http://showflix.org:5890/ali123/ali123123/56063?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",EuroSport 2 HD IT
+http://showflix.org:5890/ali123/ali123123/56064?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",FOX CRIME
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/900?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",FOX LIFE FHD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/26467?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",FOX SPORTS HD
+http://gold.euromediaserver.com:80/cakar/cakar/59516?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",History HD IT
+http://showflix.org:5890/ali123/ali123123/56111?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Nat Geo HD IT
+http://showflix.org:5890/ali123/ali123123/56120?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Nat Geo Wild HD IT
+http://showflix.org:5890/ali123/ali123123/56122?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",PREMIUM SPORT 2 HD
+http://gold.euromediaserver.com:80/cakar/cakar/59515?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",PREMIUM SPORT HD
+http://gold.euromediaserver.com:80/cakar/cakar/59514?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",PREMIUM STORIES HD (ITA)
+http://88.198.32.78:80/edis1/edis1/7425?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Premium Action IT
+http://showflix.org:5890/ali123/ali123123/56027?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Sky Sport Serie A FHD IT
+http://showflix.org:5890/ali123/ali123123/56037?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Sky Sport Uno FHD IT
+http://showflix.org:5890/ali123/ali123123/56049?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Sky Supercalcio Serie A HD VIP IT
+http://showflix.org:5890/ali123/ali123123/56035?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",SKY SPORT 1 HD
+http://gold.euromediaserver.com:80/cakar/cakar/59520?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",SKY SPORT 24 HD
+http://gold.euromediaserver.com:80/cakar/cakar/59509?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",SKY SPORT 3 HD
+http://gold.euromediaserver.com:80/cakar/cakar/59522?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",SKY SPORT F1 HD
+http://gold.euromediaserver.com:80/cakar/cakar/59511?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",SKY SPORT PLUS
+http://gold.euromediaserver.com:80/cakar/cakar/59510?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",SKY SPORT SERIE A HD
+http://gold.euromediaserver.com:80/cakar/cakar/59521?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",SKY UNO
+http://smartiptv.dyndns.info:25461/greek.iptv/skype984/903?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",SKY UNO FHD
+http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/26464?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Sky Arte HD IT
+http://showflix.org:5890/ali123/ali123123/55974?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Sky Atlantic HD IT
+http://showflix.org:5890/ali123/ali123123/55975?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Sky Cinema Comedy HD IT
+http://showflix.org:5890/ali123/ali123123/55964?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Sky Cinema Uno FHD IT
+http://showflix.org:5890/ali123/ali123123/55962?checkedby:hlscat.com
